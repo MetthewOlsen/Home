@@ -1,0 +1,15 @@
+D:\Новая папка (2)\work\bin\Debug\net6.0\work.exe
+D:\Новая папка (2)\work\bin\Debug\net6.0\work.deps.json
+D:\Новая папка (2)\work\bin\Debug\net6.0\work.runtimeconfig.json
+D:\Новая папка (2)\work\bin\Debug\net6.0\work.dll
+D:\Новая папка (2)\work\bin\Debug\net6.0\work.pdb
+D:\Новая папка (2)\work\obj\Debug\net6.0\work.csproj.AssemblyReference.cache
+D:\Новая папка (2)\work\obj\Debug\net6.0\work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка (2)\work\obj\Debug\net6.0\work.AssemblyInfoInputs.cache
+D:\Новая папка (2)\work\obj\Debug\net6.0\work.AssemblyInfo.cs
+D:\Новая папка (2)\work\obj\Debug\net6.0\work.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\work\obj\Debug\net6.0\work.dll
+D:\Новая папка (2)\work\obj\Debug\net6.0\refint\work.dll
+D:\Новая папка (2)\work\obj\Debug\net6.0\work.pdb
+D:\Новая папка (2)\work\obj\Debug\net6.0\work.genruntimeconfig.cache
+D:\Новая папка (2)\work\obj\Debug\net6.0\ref\work.dll
